@@ -1,20 +1,28 @@
 
 <div align="center">
-  <picture>
-    <!-- Dark Mode Logo: Uses light colors for visibility -->
-    <source media="(prefers-color-scheme: dark)" srcset='data:image/svg+xml;utf8,<svg xmlns="http://w3.org" viewBox="0 0 80 72" width="90" height="81"><circle cx="40" cy="18" r="13" fill="none" stroke="%23edeae2" stroke-width="2"/><circle cx="40" cy="18" r="7" fill="%23edeae2"/><circle cx="40" cy="18" r="3" fill="%230a0a08"/><circle cx="20" cy="52" r="13" fill="none" stroke="%23edeae2" stroke-width="2"/><circle cx="20" cy="52" r="7" fill="%23edeae2"/><circle cx="20" cy="52" r="3" fill="%230a0a08"/><circle cx="60" cy="52" r="13" fill="none" stroke="%23edeae2" stroke-width="2"/><circle cx="60" cy="52" r="7" fill="%23edeae2"/><circle cx="60" cy="52" r="3" fill="%230a0a08"/></svg>'>
-    <!-- Light Mode Logo: Automatically flips to dark ink so it doesn't vanish on white backgrounds -->
-    <img alt="4th Echelon Logo" src='data:image/svg+xml;utf8,<svg xmlns="http://w3.org" viewBox="0 0 80 72" width="90" height="81"><circle cx="40" cy="18" r="13" fill="none" stroke="%230a0a08" stroke-width="2"/><circle cx="40" cy="18" r="7" fill="%230a0a08"/><circle cx="40" cy="18" r="3" fill="%23edeae2"/><circle cx="20" cy="52" r="13" fill="none" stroke="%230a0a08" stroke-width="2"/><circle cx="20" cy="52" r="7" fill="%230a0a08"/><circle cx="20" cy="52" r="3" fill="%23edeae2"/><circle cx="60" cy="52" r="13" fill="none" stroke="%230a0a08" stroke-width="2"/><circle cx="60" cy="52" r="7" fill="%230a0a08"/><circle cx="60" cy="52" r="3" fill="%23edeae2"/></svg>'>
-  </picture>
+  <svg viewBox="0 0 80 72" width="90" height="81" style="display: block; margin-bottom: 12px;">
+    <!-- top center -->
+    <circle cx="40" cy="18" r="13" fill="none" stroke="currentColor" stroke-width="2"></circle>
+    <path d="M40,11 A7,7 0 1,0 40,25 A7,7 0 1,0 40,11 Z M40,15 A3,3 0 1,1 40,21 A3,3 0 1,1 40,15 Z" fill="currentColor" fill-rule="evenodd"></path>
+    
+    <!-- bottom left -->
+    <circle cx="20" cy="52" r="13" fill="none" stroke="currentColor" stroke-width="2"></circle>
+    <path d="M20,45 A7,7 0 1,0 20,59 A7,7 0 1,0 20,45 Z M20,49 A3,3 0 1,1 20,55 A3,3 0 1,1 20,49 Z" fill="currentColor" fill-rule="evenodd"></path>
+    
+    <!-- bottom right -->
+    <circle cx="60" cy="52" r="13" fill="none" stroke="currentColor" stroke-width="2"></circle>
+    <path d="M60,45 A7,7 0 1,0 60,59 A7,7 0 1,0 60,45 Z M60,49 A3,3 0 1,1 60,55 A3,3 0 1,1 60,49 Z" fill="currentColor" fill-rule="evenodd"></path>
+  </svg>
 
-  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 22px; font-weight: 700; text-transform: uppercase; letter-spacing: 3px; margin-top: 12px; margin-bottom: 2px;">
+  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; text-transform: uppercase; letter-spacing: 3px; margin-bottom: 2px;">
     4th echelon
   </div>
   
-  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; text-transform: uppercase; letter-spacing: 2px; opacity: 0.7; font-weight: 500;">
+  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; text-transform: uppercase; letter-spacing: 2px; opacity: 0.6; font-weight: 500; margin-bottom: 20px;">
     intelligence infrastructure
   </div>
 </div>
+
 
 ---
 
