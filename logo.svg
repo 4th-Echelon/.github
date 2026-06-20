@@ -18,8 +18,9 @@
     </style>
   </defs>
 
-  <g>
-    <g transform="translate(160, 12)">
+  <g transform="translate(155, 12)">
+    
+    <g transform="translate(40, 0)">
       <circle cx="40" cy="18" r="13" class="nvg-outer" />
       <circle cx="40" cy="18" r="7" class="nvg-mid" />
       <circle cx="40" cy="18" r="3" class="nvg-inner" />
@@ -31,7 +32,7 @@
       <circle cx="60" cy="52" r="3" class="nvg-inner" />
     </g>
 
-    <text x="200" y="112" text-anchor="middle" class="brand-text">Fourth echelon</text>
-    <text x="200" y="135" text-anchor="middle" class="brand-subtext">intelligence infrastructure</text>
+    <text x="80" y="102" text-anchor="middle" class="brand-text">Fourth echelon</text>
+    <text x="80" y="125" text-anchor="middle" class="brand-subtext">intelligence infrastructure</text>
   </g>
 </svg>
