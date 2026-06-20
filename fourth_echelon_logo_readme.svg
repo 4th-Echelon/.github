@@ -17,13 +17,13 @@
   <g transform="translate(200, 12)">
     <circle cx="0"   cy="18" r="13" class="nvg-outer" />
     <circle cx="0"   cy="18" r="7"  class="nvg-mid" />
-    <circle cx="0"   cy="18" r="3"  class="nvg-inner" />
+    <circle cx="0"   cy="18" r="3"  class="nvg-inner" fill="none" />
     <circle cx="-20" cy="52" r="13" class="nvg-outer" />
     <circle cx="-20" cy="52" r="7"  class="nvg-mid" />
-    <circle cx="-20" cy="52" r="3"  class="nvg-inner" />
+    <circle cx="-20" cy="52" r="3"  class="nvg-inner" fill="none" />
     <circle cx="20"  cy="52" r="13" class="nvg-outer" />
     <circle cx="20"  cy="52" r="7"  class="nvg-mid" />
-    <circle cx="20"  cy="52" r="3"  class="nvg-inner" />
+    <circle cx="20"  cy="52" r="3"  class="nvg-inner" fill="none" />
     <text x="0" y="102" text-anchor="middle" class="brand-text">Fourth echelon</text>
     <text x="0" y="125" text-anchor="middle" class="brand-subtext">intelligence infrastructure</text>
   </g>
