@@ -6,7 +6,7 @@
       .brand-subtext { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 14px; letter-spacing: 3px; text-transform: uppercase; fill: #bbb; }
       .nvg-outer { fill: none; stroke: #0d0d0d; stroke-width: 3; }
       .nvg-mid { fill: #0d0d0d; }
-      .nvg-inner { fill: none; }
+      .nvg-inner { fill: none; } /* Transparent inner cutout */
 
       /* DARK MODE OVERRIDES */
       @media (prefers-color-scheme: dark) {
@@ -19,8 +19,7 @@
   </defs>
 
   <g transform="translate(155, 12)">
-    
-    <g transform="translate(40, 0)">
+    <g transform="translate(30, 0)">
       <circle cx="40" cy="18" r="13" class="nvg-outer" />
       <circle cx="40" cy="18" r="7" class="nvg-mid" />
       <circle cx="40" cy="18" r="3" class="nvg-inner" />
@@ -32,7 +31,7 @@
       <circle cx="60" cy="52" r="3" class="nvg-inner" />
     </g>
 
-    <text x="80" y="102" text-anchor="middle" class="brand-text">Fourth echelon</text>
-    <text x="80" y="125" text-anchor="middle" class="brand-subtext">intelligence infrastructure</text>
+    <text x="40" y="102" text-anchor="middle" class="brand-text">Fourth echelon</text>
+    <text x="40" y="125" text-anchor="middle" class="brand-subtext">intelligence infrastructure</text>
   </g>
 </svg>
