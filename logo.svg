@@ -36,7 +36,7 @@
       <circle cx="60" cy="52" r="3" class="nvg-inner" />
     </g>
 
-    <text x="40" y="102" text-anchor="middle" class="brand-text">4th echelon</text>
+    <text x="40" y="102" text-anchor="middle" class="brand-text">Fourth echelon</text>
     <text x="40" y="125" text-anchor="middle" class="brand-subtext">intelligence infrastructure</text>
   </g>
 </svg>
