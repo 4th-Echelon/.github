@@ -9,7 +9,7 @@
 
 We build risk intelligence infrastructure. The kind that tells you what's exposed before someone else figures it out first.
  
-Most organizations find out they have a problem when the problem is already inside. 4th Echelon watches your attack surface continuously — credentials, infrastructure, reputation, active threat campaigns — and surfaces findings with enough context to actually act on them. Not alerts. Conclusions.
+Most organizations find out they have a problem when the problem is already inside. Fourth Echelon watches your attack surface continuously — credentials, infrastructure, reputation, active threat campaigns — and surfaces findings with enough context to actually act on them. Not alerts. Conclusions.
  
 ---
  
