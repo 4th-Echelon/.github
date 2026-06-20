@@ -1,5 +1,6 @@
 # 4th Echelon
- 
+<img width="622" height="281" alt="Screenshot 2026-06-20 at 11-34-31 " src="https://github.com/user-attachments/assets/3f7a3aa7-0f33-4cf2-bb62-6990852cf196" />
+
 We build risk intelligence infrastructure. The kind that tells you what's exposed before someone else figures it out first.
  
 Most organizations find out they have a problem when the problem is already inside. 4th Echelon watches your attack surface continuously — credentials, infrastructure, reputation, active threat campaigns — and surfaces findings with enough context to actually act on them. Not alerts. Conclusions.
