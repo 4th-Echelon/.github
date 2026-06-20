@@ -2,26 +2,21 @@
   <defs>
     <style>
       /* DEFAULT: LIGHT MODE PROPERTIES */
-      .bg { fill: #ffffff; transition: fill 0.3s ease; }
       .brand-text { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 20px; font-weight: 500; letter-spacing: 6px; text-transform: uppercase; fill: #0d0d0d; }
       .brand-subtext { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 14px; letter-spacing: 3px; text-transform: uppercase; fill: #bbb; }
       .nvg-outer { fill: none; stroke: #0d0d0d; stroke-width: 3; }
       .nvg-mid { fill: #0d0d0d; }
-      .nvg-inner { fill: #f7f6f3; }
+      .nvg-inner { fill: none; } /* Transparent inner cutout */
 
       /* DARK MODE OVERRIDES */
       @media (prefers-color-scheme: dark) {
-        .bg { fill: #0a0a08; }
         .brand-text { fill: #edeae2; }
         .brand-subtext { fill: #383835; }
         .nvg-outer { stroke: #edeae2; }
         .nvg-mid { fill: #edeae2; }
-        .nvg-inner { fill: #0a0a08; }
       }
     </style>
   </defs>
-
-  <rect width="100%" height="100%" class="bg" rx="10" />
 
   <g transform="translate(155, 12)">
     <g transform="translate(30, 0)">
