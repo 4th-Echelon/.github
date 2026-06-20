@@ -1,19 +1,11 @@
 
-<div align="center">
-  <img src="logo.svg" alt="4th Echelon Logo" width="90" height="81" />
-
-  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 24px; font-weight: 700; text-transform: uppercase; letter-spacing: 3px; margin-top: 12px; margin-bottom: 2px;">
-    4th echelon
-  </div>
-  
-  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; text-transform: uppercase; letter-spacing: 2px; opacity: 0.6; font-weight: 500; margin-bottom: 20px;">
-    intelligence infrastructure
-  </div>
-</div>
+<p align="center">
+  <img src="logo.svg" alt="Fourth Echelon // Intelligence Infrastructure" width="550">
+</p>
 
 ---
 
-# 4th Echelon
+# Fourth Echelon
 
 We build risk intelligence infrastructure. The kind that tells you what's exposed before someone else figures it out first.
  
@@ -45,4 +37,4 @@ If you represent an enterprise, institution, or research body with a genuine nee
  
 ---
  
-*4th Echelon — New Delhi*
+*Fourth Echelon — New Delhi*
