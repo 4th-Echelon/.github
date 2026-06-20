@@ -1,6 +1,24 @@
-# 4th Echelon
 
-<img width="900" height="281" alt="Screenshot 2026-06-20 at 11-34-31 " src="https://github.com/user-attachments/assets/3f7a3aa7-0f33-4cf2-bb62-6990852cf196" />
+<div align="center">
+  <picture>
+    <!-- Dark Mode Logo: Uses light colors for visibility -->
+    <source media="(prefers-color-scheme: dark)" srcset='data:image/svg+xml;utf8,<svg xmlns="http://w3.org" viewBox="0 0 80 72" width="90" height="81"><circle cx="40" cy="18" r="13" fill="none" stroke="%23edeae2" stroke-width="2"/><circle cx="40" cy="18" r="7" fill="%23edeae2"/><circle cx="40" cy="18" r="3" fill="%230a0a08"/><circle cx="20" cy="52" r="13" fill="none" stroke="%23edeae2" stroke-width="2"/><circle cx="20" cy="52" r="7" fill="%23edeae2"/><circle cx="20" cy="52" r="3" fill="%230a0a08"/><circle cx="60" cy="52" r="13" fill="none" stroke="%23edeae2" stroke-width="2"/><circle cx="60" cy="52" r="7" fill="%23edeae2"/><circle cx="60" cy="52" r="3" fill="%230a0a08"/></svg>'>
+    <!-- Light Mode Logo: Automatically flips to dark ink so it doesn't vanish on white backgrounds -->
+    <img alt="4th Echelon Logo" src='data:image/svg+xml;utf8,<svg xmlns="http://w3.org" viewBox="0 0 80 72" width="90" height="81"><circle cx="40" cy="18" r="13" fill="none" stroke="%230a0a08" stroke-width="2"/><circle cx="40" cy="18" r="7" fill="%230a0a08"/><circle cx="40" cy="18" r="3" fill="%23edeae2"/><circle cx="20" cy="52" r="13" fill="none" stroke="%230a0a08" stroke-width="2"/><circle cx="20" cy="52" r="7" fill="%230a0a08"/><circle cx="20" cy="52" r="3" fill="%23edeae2"/><circle cx="60" cy="52" r="13" fill="none" stroke="%230a0a08" stroke-width="2"/><circle cx="60" cy="52" r="7" fill="%230a0a08"/><circle cx="60" cy="52" r="3" fill="%23edeae2"/></svg>'>
+  </picture>
+
+  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 22px; font-weight: 700; text-transform: uppercase; letter-spacing: 3px; margin-top: 12px; margin-bottom: 2px;">
+    4th echelon
+  </div>
+  
+  <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; text-transform: uppercase; letter-spacing: 2px; opacity: 0.7; font-weight: 500;">
+    intelligence infrastructure
+  </div>
+</div>
+
+---
+
+# 4th Echelon
 
 We build risk intelligence infrastructure. The kind that tells you what's exposed before someone else figures it out first.
  
