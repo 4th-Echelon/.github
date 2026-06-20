@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="logo.svg" alt="Fourth Echelon // Intelligence Infrastructure" width="550">
+  <img src="fourth_echelon_logo_readme.svg" alt="Fourth Echelon // Intelligence Infrastructure" width="550">
 </p>
 
 ---
