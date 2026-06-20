@@ -5,7 +5,6 @@
       .brand-subtext { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 14px; letter-spacing: 3px; text-transform: uppercase; fill: #bbb; }
       .nvg-outer { fill: none; stroke: #0d0d0d; stroke-width: 3; }
       .nvg-mid { fill: #0d0d0d; }
-      .nvg-inner { fill: none; }
       @media (prefers-color-scheme: dark) {
         .brand-text { fill: #edeae2; }
         .brand-subtext { fill: #383835; }
@@ -13,17 +12,26 @@
         .nvg-mid { fill: #edeae2; }
       }
     </style>
+    <mask id="hole-top">
+      <circle cx="0"   cy="18" r="7" fill="white" />
+      <circle cx="0"   cy="18" r="3" fill="black" />
+    </mask>
+    <mask id="hole-bl">
+      <circle cx="-20" cy="52" r="7" fill="white" />
+      <circle cx="-20" cy="52" r="3" fill="black" />
+    </mask>
+    <mask id="hole-br">
+      <circle cx="20"  cy="52" r="7" fill="white" />
+      <circle cx="20"  cy="52" r="3" fill="black" />
+    </mask>
   </defs>
   <g transform="translate(200, 12)">
     <circle cx="0"   cy="18" r="13" class="nvg-outer" />
-    <circle cx="0"   cy="18" r="7"  class="nvg-mid" />
-    <circle cx="0"   cy="18" r="3"  class="nvg-inner" fill="none" />
+    <circle cx="0"   cy="18" r="7"  class="nvg-mid" mask="url(#hole-top)" />
     <circle cx="-20" cy="52" r="13" class="nvg-outer" />
-    <circle cx="-20" cy="52" r="7"  class="nvg-mid" />
-    <circle cx="-20" cy="52" r="3"  class="nvg-inner" fill="none" />
+    <circle cx="-20" cy="52" r="7"  class="nvg-mid" mask="url(#hole-bl)" />
     <circle cx="20"  cy="52" r="13" class="nvg-outer" />
-    <circle cx="20"  cy="52" r="7"  class="nvg-mid" />
-    <circle cx="20"  cy="52" r="3"  class="nvg-inner" fill="none" />
+    <circle cx="20"  cy="52" r="7"  class="nvg-mid" mask="url(#hole-br)" />
     <text x="0" y="102" text-anchor="middle" class="brand-text">Fourth echelon</text>
     <text x="0" y="125" text-anchor="middle" class="brand-subtext">intelligence infrastructure</text>
   </g>
