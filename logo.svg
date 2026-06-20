@@ -1,0 +1,23 @@
+<svg xmlns="http://w3.org" viewBox="0 0 80 72" width="90" height="81">
+  <style>
+    circle { stroke: #0a0a08; fill: #0a0a08; }
+    .outer { fill: none; stroke-width: 2; }
+    .inner { fill: #edeae2; }
+    @media (prefers-color-scheme: dark) {
+      circle { stroke: #edeae2; fill: #edeae2; }
+      .inner { fill: #0a0a08; }
+    }
+  </style>
+  <!-- top center -->
+  <circle cx="40" cy="18" r="13" class="outer"></circle>
+  <circle cx="40" cy="18" r="7"></circle>
+  <circle cx="40" cy="18" r="3" class="inner"></circle>
+  <!-- bottom left -->
+  <circle cx="20" cy="52" r="13" class="outer"></circle>
+  <circle cx="20" cy="52" r="7"></circle>
+  <circle cx="20" cy="52" r="3" class="inner"></circle>
+  <!-- bottom right -->
+  <circle cx="60" cy="52" r="13" class="outer"></circle>
+  <circle cx="60" cy="52" r="7"></circle>
+  <circle cx="60" cy="52" r="3" class="inner"></circle>
+</svg>
