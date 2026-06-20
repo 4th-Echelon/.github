@@ -4,12 +4,8 @@
     <!-- top center -->
     <circle cx="40" cy="18" r="13" fill="none" stroke="currentColor" stroke-width="2"></circle>
     <path d="M40,11 A7,7 0 1,0 40,25 A7,7 0 1,0 40,11 Z M40,15 A3,3 0 1,1 40,21 A3,3 0 1,1 40,15 Z" fill="currentColor" fill-rule="evenodd"></path>
-    
-    <!-- bottom left -->
     <circle cx="20" cy="52" r="13" fill="none" stroke="currentColor" stroke-width="2"></circle>
     <path d="M20,45 A7,7 0 1,0 20,59 A7,7 0 1,0 20,45 Z M20,49 A3,3 0 1,1 20,55 A3,3 0 1,1 20,49 Z" fill="currentColor" fill-rule="evenodd"></path>
-    
-    <!-- bottom right -->
     <circle cx="60" cy="52" r="13" fill="none" stroke="currentColor" stroke-width="2"></circle>
     <path d="M60,45 A7,7 0 1,0 60,59 A7,7 0 1,0 60,45 Z M60,49 A3,3 0 1,1 60,55 A3,3 0 1,1 60,49 Z" fill="currentColor" fill-rule="evenodd"></path>
   </svg>
